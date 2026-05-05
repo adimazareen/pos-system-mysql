@@ -1,4 +1,4 @@
-# POS System in MySQL - Complete Documentation
+# POS System in MySQL
 
 ## Project Overview
 
