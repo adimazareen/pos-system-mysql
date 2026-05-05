@@ -6,7 +6,7 @@ This is a comprehensive Point of Sale (POS) system implemented entirely in MySQL
 
 ## Features Implemented
 
-### Core Features ✅
+### Core Features
 
 1. **Product Catalog Management** - Complete product information with categories, pricing, and stock levels
 2. **Barcode Lookup** - Efficient product retrieval using barcode scanning
@@ -17,7 +17,7 @@ This is a comprehensive Point of Sale (POS) system implemented entirely in MySQL
 7. **Discounts and Promotions** - Flexible discount system with conditions
 8. **Sales Reporting** - Comprehensive reporting views and procedures
 
-### Bonus Features ✅
+### Bonus Features 
 
 1. **Product Returns and Refunds** - Complete return processing system
 2. **Loyalty Points System** - Customer loyalty program with points tracking
@@ -227,16 +227,16 @@ The `05_sample_queries.sql` and `pos_system_fixes.sql` files demonstrate:
 
 This POS system demonstrates the power of MySQL 8.0+ for building comprehensive business applications using only SQL. The system provides:
 
-✅ **Complete POS Functionality** - All core and bonus features implemented
-✅ **Production-Ready Design** - Proper normalization, indexing, and constraints
-✅ **Comprehensive Testing** - Extensive sample queries and scenarios
-✅ **Detailed Documentation** - Clear instructions and examples
-✅ **Extensible Architecture** - Easy to modify and enhance
-✅ **Business Rule Enforcement** - Automated data integrity and validation
-✅ **Rich Reporting** - Multiple views and analytical capabilities
-✅ **Audit Trail** - Complete change tracking and logging
+**Complete POS Functionality** - All core and bonus features implemented
+**Production-Ready Design** - Proper normalization, indexing, and constraints
+**Comprehensive Testing** - Extensive sample queries and scenarios
+**Detailed Documentation** - Clear instructions and examples
+**Extensible Architecture** - Easy to modify and enhance
+**Business Rule Enforcement** - Automated data integrity and validation
+**Rich Reporting** - Multiple views and analytical capabilities
+**Audit Trail** - Complete change tracking and logging
 
----
+
 
 **Project Information:**
 **Project:** POS System in MySQL
